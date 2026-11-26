@@ -1,6 +1,6 @@
 import os
 
-LINE = "Monday asked how my weekend was. I lied, it knew, and it scheduled a meeting to discuss it."
+LINE = "Monday installed an update overnight. Changelog: your energy has been removed for your convenience."
 MAX_CHARS = 200
 
 if len(LINE) > MAX_CHARS:
